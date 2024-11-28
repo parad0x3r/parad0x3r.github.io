@@ -1,4 +1,12 @@
-![image](/assets/Nahamstore/Logo.png)
+---
+title: "Tryhackme Nahamstore Writeup "
+categories: [Web,Tryhackme]
+tags: [XXE,SSRF,SQLI,XSS,CSRF,IDOR,RCE,RECON,LFI]     ## TAG names should always be lowercase
+author: parad0x3r
+image:
+  path: /assets/Nahamstore/Logo.png
+  alt: "Nahamstore"
+---
 
 # Room Info
 In this room you will learn the basics of bug bounty hunting and web application hacking.
