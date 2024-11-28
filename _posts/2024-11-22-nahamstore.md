@@ -1,7 +1,7 @@
 ---
 title: "Tryhackme Nahamstore Writeup "
 categories: [Web,Tryhackme]
-tags: [XXE,SSRF,SQLI,XSS,CSRF,IDOR,RCE,RECON,LFI]     ## TAG names should always be lowercase
+tags: [xxe,ssrf,sqli,xss,csrf,idor,rce,recon,Lfi,websec]     ## TAG names should always be lowercase
 author: parad0x3r
 image:
   path: /assets/Nahamstore/Logo.png
